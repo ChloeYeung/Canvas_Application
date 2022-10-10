@@ -1,9 +1,11 @@
-# Canvas Application :rocket:
+# Canvas Application :sunrise:
 - HTML, JS, CSS
 
 ## Description of the Project
 
 Canvas application was made using the Canvas API which  allow users to create shapes and also modify the shapes using colours and width. The application also includes tools such as eraser, saving canvas and uploading images directly from the local drive. The Canvas API largely focuses on 2D objects.
+
+<img width="1150" alt="canvasOrignal" src="https://user-images.githubusercontent.com/106992258/194908233-94a74506-5955-4ae8-9e4e-2bd7ecb9dac1.png">
 
 ## User Guide
 
