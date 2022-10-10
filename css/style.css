@@ -1,0 +1,59 @@
+.canvas {
+  border: 6px black solid;
+  position: absolute;
+  /* top: 80px;
+  bottom: 0px;
+  left: 600px;
+  right: 0px; */
+  align-items: center;
+  background-color: white;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  
+}
+
+.container{
+  width:100%;
+}
+
+#canvas-draft {
+  background-color: transparent;
+  border: cyan;
+}
+
+#canvas-container {
+  height: 600px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+
+h1{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+/* creates a circle */
+.createCircle{
+  height: 40px;
+  width: 40px;
+  background-color: #bbb;
+  border-radius: 50%;
+}
+
+
+.createTriangle{
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 17.3px 10px;
+  border-color: transparent transparent #8f99a3 transparent;
+}
+
+
+
+.box {
+  border-radius: 15px;
+  background-color: rgba(0, 181, 204, 1);
+}
